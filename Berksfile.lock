@@ -1,0 +1,10 @@
+{
+  "sources": {
+    "junk": {
+      "path": "."
+    },
+    "fake": {
+      "path": "./test/fixtures/cookbooks/fake"
+    }
+  }
+}

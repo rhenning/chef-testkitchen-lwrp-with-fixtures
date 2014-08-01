@@ -1,0 +1,1 @@
+junk_resource "wilma"
